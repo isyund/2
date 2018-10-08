@@ -1,0 +1,17 @@
+
+body {
+	width:1000px;
+	margin：0 auto;
+	text-align: center;
+}
+table {
+	margin:0 auto;
+}
+
+ul,ol {
+	list-style-type: none;
+}
+a {
+	text-decoration:none;
+	color:#00ffff;
+}
